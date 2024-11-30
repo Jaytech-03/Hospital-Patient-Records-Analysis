@@ -1,4 +1,4 @@
-# M-Hospital-Patient-Records-Analysis
+# Hospital-Patient-Records-Analysis
 
 ## Case Study
 For the Maven Hospital Challenge, you’ll play the role of an Analytics Consultant for Massachusetts General Hospital (MGH).
